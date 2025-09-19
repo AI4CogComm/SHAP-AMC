@@ -4,7 +4,7 @@ Ues SHAP, an XAI approach, to find the negative information in attacked wireless
 # CAMC
 Source codes of the article: 
 
-P. Dong,J. Wang,S. Gao,F. Zhou and Q. Wu, "Explainable Deep Learning Based Adversarial Defense for Automatic Modulation Classification," IEEE Internet of Things Journal, to be published. 
+P. Dong, J. Wang, S. Gao, F. Zhou, and Q. Wu, "Explainable Deep Learning Based Adversarial Defense for Automatic Modulation Classification," IEEE Internet of Things Journal, to be published, 2025. 
 
 Please cite this paper when using the codes.
 
